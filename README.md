@@ -10,6 +10,7 @@ Optimization Modeling (OM) is essential for solving complex decision-making prob
 
 ## Citation
 
+```text
 @misc{yang2025automatedoptimizationmodelingexpertguided,
       title={Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning},
       author={Beinuo Yang and Qishen Zhou and Junyi Li and Xingchen Su and Simon Hu},
@@ -19,3 +20,4 @@ Optimization Modeling (OM) is essential for solving complex decision-making prob
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2508.14410},
 }
+```
